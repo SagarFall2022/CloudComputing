@@ -1,2 +1,2 @@
 # CloudComputing
-Cloud Computing Assignments
+Cloud Computing Projects
