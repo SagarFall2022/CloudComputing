@@ -1,10 +1,5 @@
-### CS553 Cloud Computing Homework 7 Repo
-**Illinois Institute of Technology**  
-
- 
-**Students**:  
 * Sagar Shekhargouda Patil - spatil59@hawk.iit.edu 
-* Isa Muradli -imuradli@hawk.iit.edu 
+
  
 
 
