@@ -10,13 +10,17 @@ Provide insights into the strengths, weaknesses, and suitable use cases for each
 # Cloud Computing Performance Analysis: Linux Sort, Hadoop Sort, and Spark Sort
 Description:
 This Project contains the code, documentation, and results of a project aimed at analyzing the performance of Linux Sort, Hadoop Sort, and Spark Sort on multiple Chameleon nodes. The project includes sorting files of various sizes (3GB, 6GB, 12GB, and 24GB) and recording and analyzing the results obtained from running these sorts on different configurations.
-
 Key Features:
 Linux Sort: Evaluate the performance of Linux Sort on instances with different configurations.
+
 Hadoop Sort: Assess the performance of Hadoop Sort on a single node and compare it with the performance on four nodes.
+
 Spark Sort: Measure the performance of Spark Sort on a single node and compare it with the performance on four nodes.
+
 Multiple Chameleon Nodes: Utilize multiple Chameleon nodes to conduct the performance analysis.
+
 File Size Variation: Sort files of different sizes (3GB, 6GB, 12GB, and 24GB) to observe the impact on performance.
+
 Results and Analysis: Record and analyze the results obtained from running the sorts, comparing their performance across different configurations and file sizes.
 
 
